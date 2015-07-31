@@ -1,0 +1,17 @@
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\TfsNotificationRelay.Tests.dll.config
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\TfsNotificationRelay.Tests.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\TfsNotificationRelay.Tests.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\DevCore.TfsNotificationRelay.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\HtmlAgilityPack.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\Newtonsoft.Json.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\System.Web.Http.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\DevCore.TfsNotificationRelay.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\HtmlAgilityPack.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\HtmlAgilityPack.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\Newtonsoft.Json.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Release\System.Web.Http.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\obj\Release\TfsNotificationRelay.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\obj\Release\TfsNotificationRelay.Tests.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\obj\Release\TfsNotificationRelay.Tests.pdb

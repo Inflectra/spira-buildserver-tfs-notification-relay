@@ -1,0 +1,17 @@
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\TfsNotificationRelay.Tests.dll.config
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\TfsNotificationRelay.Tests.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\TfsNotificationRelay.Tests.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\DevCore.TfsNotificationRelay.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\DevCore.TfsNotificationRelay.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\HtmlAgilityPack.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\obj\Debug\TfsNotificationRelay.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\obj\Debug\TfsNotificationRelay.Tests.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Tests\obj\Debug\TfsNotificationRelay.Tests.pdb

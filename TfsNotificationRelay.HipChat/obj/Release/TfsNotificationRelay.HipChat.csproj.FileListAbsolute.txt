@@ -1,0 +1,12 @@
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\DevCore.TfsNotificationRelay.HipChat.dll.config
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\DevCore.TfsNotificationRelay.HipChat.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\DevCore.TfsNotificationRelay.HipChat.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\DevCore.TfsNotificationRelay.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\Newtonsoft.Json.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\HtmlAgilityPack.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\DevCore.TfsNotificationRelay.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\Newtonsoft.Json.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\HtmlAgilityPack.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\bin\Release\HtmlAgilityPack.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\obj\Release\DevCore.TfsNotificationRelay.HipChat.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.HipChat\obj\Release\DevCore.TfsNotificationRelay.HipChat.pdb

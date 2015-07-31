@@ -1,0 +1,10 @@
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\bin\Release\DevCore.TfsNotificationRelay.dll.config
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\bin\Release\DevCore.TfsNotificationRelay.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\bin\Release\DevCore.TfsNotificationRelay.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\bin\Release\HtmlAgilityPack.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\bin\Release\Newtonsoft.Json.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\bin\Release\HtmlAgilityPack.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\bin\Release\HtmlAgilityPack.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\bin\Release\Newtonsoft.Json.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\obj\Release\DevCore.TfsNotificationRelay.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay\obj\Release\DevCore.TfsNotificationRelay.pdb

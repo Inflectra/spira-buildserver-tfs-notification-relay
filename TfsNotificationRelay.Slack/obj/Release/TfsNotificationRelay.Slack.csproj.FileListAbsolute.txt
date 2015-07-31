@@ -1,0 +1,13 @@
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\DevCore.TfsNotificationRelay.Slack.dll.config
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\DevCore.TfsNotificationRelay.Slack.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\DevCore.TfsNotificationRelay.Slack.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\DevCore.TfsNotificationRelay.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\Newtonsoft.Json.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\HtmlAgilityPack.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\DevCore.TfsNotificationRelay.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\Newtonsoft.Json.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\HtmlAgilityPack.pdb
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\bin\Release\HtmlAgilityPack.xml
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\obj\Release\TfsNotificationRelay.Slack.csprojResolveAssemblyReference.cache
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\obj\Release\DevCore.TfsNotificationRelay.Slack.dll
+C:\Users\bruno.gruber\workspace\TfsNotificationRelay\TfsNotificationRelay.Slack\obj\Release\DevCore.TfsNotificationRelay.Slack.pdb
